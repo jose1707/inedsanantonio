@@ -1,0 +1,47 @@
+[03-Nov-2017 20:19:11 UTC] PHP Notice:  Undefined property: ReservationData::$title in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 42
+[03-Nov-2017 20:19:11 UTC] PHP Notice:  Undefined property: PacientData::$name in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 43
+[03-Nov-2017 20:19:11 UTC] PHP Notice:  Undefined property: PacientData::$lastname in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 43
+[03-Nov-2017 20:19:11 UTC] PHP Notice:  Undefined property: MedicData::$name in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 44
+[03-Nov-2017 20:19:11 UTC] PHP Notice:  Undefined property: MedicData::$lastname in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 44
+[03-Nov-2017 20:19:11 UTC] PHP Notice:  Undefined property: ReservationData::$date_at in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 45
+[03-Nov-2017 20:19:11 UTC] PHP Notice:  Undefined property: ReservationData::$time_at in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 45
+[03-Nov-2017 20:19:11 UTC] PHP Notice:  Undefined property: StatusData::$name in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 46
+[03-Nov-2017 20:19:11 UTC] PHP Notice:  Undefined property: PaymentData::$name in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 47
+[03-Nov-2017 20:19:11 UTC] PHP Notice:  Undefined property: ReservationData::$price in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 48
+[03-Nov-2017 20:19:11 UTC] PHP Notice:  Undefined property: ReservationData::$price in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 49
+[03-Nov-2017 20:19:12 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/asiiumg/public_html/clinicamedica/PhpWord/Shared/ZipArchive.php on line 120
+[04-Nov-2017 00:58:13 UTC] PHP Notice:  Undefined property: ReservationData::$title in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 42
+[04-Nov-2017 00:58:13 UTC] PHP Notice:  Undefined property: PacientData::$name in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 43
+[04-Nov-2017 00:58:13 UTC] PHP Notice:  Undefined property: PacientData::$lastname in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 43
+[04-Nov-2017 00:58:13 UTC] PHP Notice:  Undefined property: MedicData::$name in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 44
+[04-Nov-2017 00:58:13 UTC] PHP Notice:  Undefined property: MedicData::$lastname in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 44
+[04-Nov-2017 00:58:13 UTC] PHP Notice:  Undefined property: ReservationData::$date_at in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 45
+[04-Nov-2017 00:58:13 UTC] PHP Notice:  Undefined property: ReservationData::$time_at in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 45
+[04-Nov-2017 00:58:13 UTC] PHP Notice:  Undefined property: StatusData::$name in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 46
+[04-Nov-2017 00:58:13 UTC] PHP Notice:  Undefined property: PaymentData::$name in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 47
+[04-Nov-2017 00:58:13 UTC] PHP Notice:  Undefined property: ReservationData::$price in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 48
+[04-Nov-2017 00:58:13 UTC] PHP Notice:  Undefined property: ReservationData::$price in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 49
+[04-Nov-2017 00:58:14 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/asiiumg/public_html/clinicamedica/PhpWord/Shared/ZipArchive.php on line 120
+[04-Nov-2017 01:52:39 UTC] PHP Notice:  Undefined property: ReservationData::$title in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 42
+[04-Nov-2017 01:52:39 UTC] PHP Notice:  Undefined property: PacientData::$name in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 43
+[04-Nov-2017 01:52:39 UTC] PHP Notice:  Undefined property: PacientData::$lastname in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 43
+[04-Nov-2017 01:52:39 UTC] PHP Notice:  Undefined property: MedicData::$name in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 44
+[04-Nov-2017 01:52:39 UTC] PHP Notice:  Undefined property: MedicData::$lastname in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 44
+[04-Nov-2017 01:52:39 UTC] PHP Notice:  Undefined property: ReservationData::$date_at in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 45
+[04-Nov-2017 01:52:39 UTC] PHP Notice:  Undefined property: ReservationData::$time_at in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 45
+[04-Nov-2017 01:52:39 UTC] PHP Notice:  Undefined property: StatusData::$name in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 46
+[04-Nov-2017 01:52:39 UTC] PHP Notice:  Undefined property: PaymentData::$name in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 47
+[04-Nov-2017 01:52:39 UTC] PHP Notice:  Undefined property: ReservationData::$price in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 48
+[04-Nov-2017 01:52:39 UTC] PHP Notice:  Undefined property: ReservationData::$price in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 49
+[04-Nov-2017 01:52:39 UTC] PHP Notice:  Undefined property: ReservationData::$title in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 42
+[04-Nov-2017 01:52:39 UTC] PHP Notice:  Undefined property: PacientData::$name in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 43
+[04-Nov-2017 01:52:39 UTC] PHP Notice:  Undefined property: PacientData::$lastname in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 43
+[04-Nov-2017 01:52:39 UTC] PHP Notice:  Undefined property: MedicData::$name in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 44
+[04-Nov-2017 01:52:39 UTC] PHP Notice:  Undefined property: MedicData::$lastname in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 44
+[04-Nov-2017 01:52:39 UTC] PHP Notice:  Undefined property: ReservationData::$date_at in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 45
+[04-Nov-2017 01:52:39 UTC] PHP Notice:  Undefined property: ReservationData::$time_at in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 45
+[04-Nov-2017 01:52:39 UTC] PHP Notice:  Undefined property: StatusData::$name in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 46
+[04-Nov-2017 01:52:39 UTC] PHP Notice:  Undefined property: PaymentData::$name in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 47
+[04-Nov-2017 01:52:39 UTC] PHP Notice:  Undefined property: ReservationData::$price in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 48
+[04-Nov-2017 01:52:39 UTC] PHP Notice:  Undefined property: ReservationData::$price in /home/asiiumg/public_html/clinicamedica/report/report-word.php on line 49
+[04-Nov-2017 01:52:39 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/asiiumg/public_html/clinicamedica/PhpWord/Shared/ZipArchive.php on line 120
